@@ -30,9 +30,8 @@ Entornos Servidor - Programación de servicios - Codigo Facilito
 ![](images/banner.jpg)
 
 # Proyecto
-Este proyecto es una muestra de lo que se ha ido viendo en clase siguiendo los pasos del [repositorio del tema](https://github.com/joseluisgs/DesarrolloWebEntornosServidor-02-2023-2024).
 
-Podrás seguir sus pasos commit a commit o en las ramas indicadas por clase.
+Este proyecto fue creado gracias al equipo de codigo facilito
 
 # Problema
 Vamos a crear una API REST y página web de una tienda de productos
