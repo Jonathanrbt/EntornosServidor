@@ -165,7 +165,7 @@ Aquí tienes las tablas actualizadas con la columna "Otras Salidas" y ejemplos d
 
 ## Autor
 
-Codificado con :sparkling_heart: por [`Jonathan Stiwar Romero Betancourt`]
+Codificado por [`Jonathan Stiwar Romero Betancourt`]
 =======
 # EntornosServidor
 DesarrolloWebEntornosServidor
