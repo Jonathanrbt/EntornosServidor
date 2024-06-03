@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DesarrolloWebEntornosServidor-02-Proyecto-2023-2024
 Desarrollo Web en Entornos Servidor - 02 Programación de servicios y apps web en Java/JVM Proyecto. 2DAW. Curso 2023-2024
 
@@ -165,3 +166,7 @@ Aquí tienes las tablas actualizadas con la columna "Otras Salidas" y ejemplos d
 ## Autor
 
 Codificado con :sparkling_heart: por [`Jonathan Stiwar Romero Betancourt`]
+=======
+# EntornosServidor
+DesarrolloWebEntornosServidor
+>>>>>>> b0d95377eaae6f0ff5b66aa43760b7570dc5add9
