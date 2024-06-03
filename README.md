@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DesarrolloWebEntornosServidor
 Entornos Servidor - Programación de servicios - Codigo Facilito
 
